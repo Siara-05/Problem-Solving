@@ -1,4 +1,5 @@
 
+// Convert a string into a integer without using parseInt() function
 
 // Using Math floor() Method
 
