@@ -6,4 +6,4 @@ for (let i = 1; i <= 10; i++) {
     console.log (`${number} * ${i} = ${number *i}`);
 }
 
-// NOTE:- the syntax is (``) not ('')
+// NOTE:- the syntax is (``) not ('') 
