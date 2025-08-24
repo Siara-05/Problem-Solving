@@ -9,10 +9,10 @@
 //         console.log ( "df" );
         
 // } }
-
-
-let star = "*";
-
-for ( i=1 ; i <=5; i ++) {
-    console.log (star );
+function square(num) {
+  return num * num;
 }
+
+// Test the function
+const result = square(5);
+console.log("The square is:", result);
