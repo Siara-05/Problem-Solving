@@ -11,6 +11,7 @@
 //         console.log ( "df" );
        
 // } }
+
 function square(num) {
   return num * num;
 }
@@ -35,4 +36,4 @@ for ( i=1 ; i <=5; i ++) {
 // }
 
 
->>>>>>> 11d9871411175a10e05bee3f9da47238bd0510bc
+
