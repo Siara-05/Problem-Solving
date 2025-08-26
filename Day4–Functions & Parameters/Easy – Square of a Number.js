@@ -16,18 +16,9 @@ function square(num) {
   return num * num;
 }
 
-<<<<<<< HEAD
-// Test the function
-const result = square(5);
-console.log("The square is:", result);
-=======
-
-let star = "*";
-
-for ( i=1 ; i <=5; i ++) {
-    console.log (star );
-};
-
+// Example usage:
+console.log(square(5)); // Output: 25
+console.log(square(10)); // Output: 100
 
 // let i = "*";
 
