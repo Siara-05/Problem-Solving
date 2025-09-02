@@ -1,2 +1,2 @@
-# Here we will practice all the things i learn in jaavascript #
+# Here we will practice all the things I learn in jaavascript #
 ---
